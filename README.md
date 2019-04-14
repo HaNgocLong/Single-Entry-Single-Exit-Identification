@@ -23,7 +23,8 @@ System Requirements:
 How to use:
 ------------
  - Download "SESE_Demo_v1.0" setup file
- - Install the file
+ - After install the file, click "Load Model" to load and process model
+ - Click "Run" to get the highlighted SESE region
 
 Contributors:
 ------------
