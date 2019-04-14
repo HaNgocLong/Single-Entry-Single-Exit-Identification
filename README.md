@@ -3,7 +3,7 @@
  > The gProAnalyzer was developed by BPM Lab - Inje University
  
 <kbd>
- <img src= "https://github.com/HaNgocLong/Single-Entry-Single-Exit-Identification/blob/master/Overview.PNG?raw=true">
+ <img src= "https://github.com/InjeBPM/Single-Entry-Single-Exit-Identification/blob/master/Overview.PNG">
 </kbd>
 A screenshot of the demo
 
