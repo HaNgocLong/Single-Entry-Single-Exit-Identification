@@ -5,6 +5,7 @@
 <kbd>
  <img src= "https://raw.githubusercontent.com/InjeBPM/Single-Entry-Single-Exit-Identification/master/Overview.png">
 </kbd>
+
 A screenshot of the demo
 
 
