@@ -27,7 +27,7 @@ How to use:
 ------------
  - Download "SESE_Demo_v1.0" setup file and follow the setup instruction for installation
  - After installation, click "Load Model" to load a process model
- - Click "Run" to get the highlighted SESE region
+ - Click "Run" to get the highlighted SESE region of a given process model
 
 Contributors:
 ------------
