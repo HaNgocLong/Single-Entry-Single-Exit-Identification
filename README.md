@@ -33,6 +33,7 @@ How to use:
  - Download "SESE_Demo_v1.0" setup file and follow the setup instruction for installation
  - After installation, click "Load Model" to load a process model
  - Click "Run" to get the highlighted SESE region of a given process model
+ - The resulted RPST is represent with nodes which each rounded regtangle box depicts the SESE region for each type (e.g. B for Bond, R for Rigid, and S for series)
 
 Contributors:
 ------------
