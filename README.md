@@ -21,7 +21,7 @@ On Developing
   - The prototype is released as a part of the gProAnalyzer toolset and fully tested with 604 SAP EPC reference models
   - The bug/glitch fixing and updates will be released
   - The final tool is subjected to change without notice
-  - The gProAnalyzer toolset includes various of process analysis techniques for verification process model [[1](https://doi.org/10.1016/j.datak.2014.11.003)]
+  - The gProAnalyzer toolset includes various of process analysis techniques for process model's verification [[1](https://doi.org/10.1016/j.datak.2014.11.003)]
 
 System Requirements:
 ------------
