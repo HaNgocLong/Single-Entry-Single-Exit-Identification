@@ -6,8 +6,13 @@
  <img src= "https://github.com/InjeBPM/Single-Entry-Single-Exit-Identification/blob/master/Demo_Overview.png">
 </kbd>
 
-A screenshot of the demo
+A screenshot of the demo - The highlighted SESE regions
 
+<kbd>
+ <img src= "https://github.com/InjeBPM/Single-Entry-Single-Exit-Identification/blob/master/Demo_Overview_RPSTwNode.png">
+</kbd>
+
+A screenshot of the demo - The RPST defined by Nodes
 
 
 On Developing
