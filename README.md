@@ -26,14 +26,14 @@ On Developing
 File Including
 -----------  
   1. gProAnalyzer_SESE_Demo_v1.0.exe:
-    * An executable program, which is a part of gProAnalyzer developed by BPM Lab, Inje University, for process modeling verification [1: https://doi.org/10.1016/j.datak.2014.11.003].     
-    * Fully tested with models in folder "SampleSAPmodels"
+      * An executable program, which is a part of gProAnalyzer developed by BPM Lab, Inje University, for process modeling verification [1: https://doi.org/10.1016/j.datak.2014.11.003].     
+      * Fully tested with models in folder "SampleSAPmodels"
   2. README.md provides:
-    * A couple screenshots of the program, 
-    * System requirement of the program, and
-    * User manual of the program.
+      * A couple screenshots of the program, 
+      * System requirement of the program, and
+      * User manual of the program.
   3. SampleSAPmodels
-    * contains 604 SAP EPC reference models   
+      * contains 604 SAP EPC reference models   
 
 System Requirements:
 ------------
